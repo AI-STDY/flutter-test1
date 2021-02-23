@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
           appBar: AppBar(
-            title: const Text('youtubeアプリdayo'),
+            title: const Text('youtubeアプリ'),
             leading: Icon(Icons.videocam),
             actions: <Widget>[
               SizedBox(
